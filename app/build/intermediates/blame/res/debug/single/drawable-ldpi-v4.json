@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_logo.png",
+        "source": "/Users/malone/Downloads/iot-starter-for-android-master-2/app/src/main/res/drawable-ldpi/ic_logo.png"
+    },
+    {
+        "merged": "/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_logo_b.png",
+        "source": "/Users/malone/Downloads/iot-starter-for-android-master-2/app/src/main/res/drawable-ldpi/ic_logo_b.png"
+    },
+    {
+        "merged": "/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_icon.png",
+        "source": "/Users/malone/Downloads/iot-starter-for-android-master-2/app/src/main/res/drawable-ldpi/ic_icon.png"
+    }
+]

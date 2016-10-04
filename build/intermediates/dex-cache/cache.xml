@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/malone/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_2d0fc90a05a959dcfac0755e70f6d6bd55936b0e.jar" />
+    </item>
+    <item
+        jar="/Users/malone/Downloads/iot-starter-for-android-master-2/app/libs/org.eclipse.paho.android.service.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="36289fb3b9bb223c35b69449e25a48aef2df756b">
+        <dex dex="/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service_868497954806aaf03f3b4629c0e4fdb25a72150f.jar" />
+    </item>
+    <item
+        jar="/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="2af7464e204e1cf9b9dadc6ab70150e378d9c945">
+        <dex dex="/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/pre-dexed/debug/instant-run_25ad079763a11af0d98fab4c8c351f710bc6cd08.jar" />
+    </item>
+    <item
+        jar="/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_71191e03c5919c6f056527179cabfaa4e3def1e6.jar" />
+    </item>
+    <item
+        jar="/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_06542c7b05a9dfa3790a7f0b85cfdf5bd933ee86.jar" />
+    </item>
+    <item
+        jar="/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_4330ecfb166a54a211819c1613f52cc78e676d46.jar" />
+    </item>
+    <item
+        jar="/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-6.5.87_7b9537efb2a429823add1d0b6389fcc6eba3dd76.jar" />
+    </item>
+    <item
+        jar="/Users/malone/Downloads/iot-starter-for-android-master-2/app/libs/org.eclipse.paho.client.mqttv3.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="da5fbfa8088506ea0f3a160adf4396cb3ed4cc8f">
+        <dex dex="/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3_45560b72ec9fa41bb532acdb6eac7105c22b324e.jar" />
+    </item>
+    <item
+        jar="/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="fbeafbe6faeb4ec36d9ea91f0a1d6836724be838">
+        <dex dex="/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_f8601f062babc351c0889435c2937282a9edbaa8.jar" />
+    </item>
+
+</items>

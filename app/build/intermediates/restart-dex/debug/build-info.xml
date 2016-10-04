@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="mdpi"
+    format="7"
+    timestamp="18573652320560"
+    token="-5135038374572465281" >
+
+    <task
+        name="javac"
+        duration="740" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="448" />
+    <task
+        name="verifier"
+        duration="85" />
+
+    <artifact
+        location="/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="18573652320560" >
+        <artifact
+            location="/Users/malone/Downloads/iot-starter-for-android-master-2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
